@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">My Test Application 22-6-2016</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello World</string>
+    <string name="hello_switch">Hello Switch</string>
+    <string name="hello_button">Hello Button</string>
+    <string name="hello_toggle_button">Hello Toggle Button</string>
+    <string name="hello_text_off">Offie</string>
+    <string name="hello_text_on">Oniie</string>
+</resources>
